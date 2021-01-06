@@ -9,7 +9,7 @@
     "prettify": "prettier --write ./**/*.{js,ts,vue}"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash.clonedeep": "^4.5.0",
     "lodash.isempty": "^4.4.0",
     "lodash.merge": "^4.6.2",
